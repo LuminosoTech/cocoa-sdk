@@ -1,0 +1,22 @@
+{
+  "name": "Luminoso",
+  "version": "0.1.0",
+  "summary": "The Luminoso framework for Apple platforms.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LuminosoTech/cocoa-sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "frodinm": "fabrizio.rodinmiron@luminoso.tech"
+  },
+  "source": {
+    "git": "https://github.com/LuminosoTech/cocoa-sdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "Luminoso/**/*"
+}

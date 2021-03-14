@@ -1,0 +1,7 @@
+use_frameworks!
+
+platform :ios, '9.3'
+
+target 'luminoso-example' do
+  pod 'Luminoso', :path => '../../'
+end
